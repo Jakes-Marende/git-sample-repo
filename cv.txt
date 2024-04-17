@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CV</title>
+</head>
+<body>
+	<h1>PERSONAL DETAILS</h1>
+	<label>NAME:</label>
+	<label>EMAIL:</label>
+	<label>CAMPUS:</label>
+	<label>COURSE:</label>
+
+	<h1>QUALIFICATIONS</h1>
+	<label>BACHELORS DEGREE</label>
+	
+	<h1>EDUCATION HISTORY</h1>
+	<label>PRIMARY</label>
+	<label>SECONDARY</label>
+	<label>CAMPUS</label>
+</body>
+</html>
